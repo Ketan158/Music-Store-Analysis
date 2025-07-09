@@ -31,7 +31,8 @@ The Chinook database mimics a real-world online music store. It includes:
 
 - `Music Store Analysis.sql` – Contains all SQL queries used for the analysis.
 - `README.md` – You’re reading it :)
-- ` `
+- `Music Store SQL queries.docx` - Contains all the KPI's, queries and their outputs along with them.
+
 ---
 
 ## 🛠 Tools Used
